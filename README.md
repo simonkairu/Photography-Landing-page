@@ -8,6 +8,7 @@
 ## Setup/Installation Requirements
 Does not require any special installation 
 works best in chrome browser
+can also use firefox
 
 ## Known Bugs
 The website is not responsive
