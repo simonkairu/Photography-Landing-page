@@ -12,6 +12,7 @@ can also use firefox
 
 ## Known Bugs
 The website is not responsive
+Website does not have a back end 
 ## Technologies Used
 The website was created using Html and Css
 ## Support and contact details
