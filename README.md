@@ -1,7 +1,7 @@
 
 # Photography-Landing-page
 # {GALLERY}
-#### {Gallery is a website where people post and see photos}, {version 1.0 2021}
+#### {Gallery is a website where people post and see photos across the globe}, {version 1.0 2021}
 #### By **{List of contributors}**
 ## Description
 {Gallery is a website uniquely build for people to post and see images,it was created purely using html and CSS}
