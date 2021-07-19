@@ -1,6 +1,6 @@
 
 # Photography-Landing-page
-# {GALLERY}
+# {GALLERY WEBSITE}
 #### {Gallery is a website where people post and see photos across the globe}, {version 1.0 2021}
 #### By SIMON KAIRU
 ## Description
@@ -13,6 +13,7 @@ can also use firefox
 ## Known Bugs
 The website is not responsive
 Website does not have a back end 
+Website can not be used offline
 ## Technologies Used
 The website was created using Html and Css still in development might include javascript in future
 ## Support and contact details
