@@ -13,6 +13,7 @@ can also use firefox
 ## Known Bugs
 The website is not responsive
 Website does not have a back end 
+Website can not be used offline
 ## Technologies Used
 The website was created using Html and Css still in development might include javascript in future
 ## Support and contact details
