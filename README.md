@@ -14,7 +14,7 @@ can also use firefox
 The website is not responsive
 Website does not have a back end 
 ## Technologies Used
-The website was created using Html and Css 
+The website was created using Html and Css still in development might include javascript in future
 ## Support and contact details
 Incase of any issues email simonkairu14@gmail.com or DM on instagram @princekairu
 ### License
