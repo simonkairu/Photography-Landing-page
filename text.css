@@ -139,3 +139,6 @@ footer{
    color:white;
    align-items: center;
 }
+footer span{
+   color: black;
+}
